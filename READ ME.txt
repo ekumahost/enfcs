@@ -1,0 +1,1 @@
+SPLASH SCREEN/LOGO \bin\res\crunch\drawable
